@@ -7,3 +7,12 @@ https://twitter.com/flo_card
 https://www.instagram.com/flocard_global/
 https://www.linkedin.com/company/flocard/
 https://www.decadeonrestoration.org/
+
+
+
+
+
+comment to enable and disable the python development environment
+
+$ source /loadtest/bin/activate
+$ deactivate
